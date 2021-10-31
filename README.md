@@ -1,7 +1,7 @@
 # nike-brand-website
 Hi, Myself Rahul Tagra (Email-rahultagra04@gmail.com) has tried and implemented the (Task 5) i.e building a Website Of A Brand..Hope you Like It.<br>
 So It is basically a nike (shoes)Brand Website.<br>[I have used Json and the PHP files only for running the Website In Heroku].<br><br>
-1) The top most section of page is the header that consists of the nike logo with its name. The ["Nike" Name in the first line is a link and will take u to the The Official Nike Page Upon Clicking]. Same With The Bell Icon As Well As The USer Image .<br><br>
+1) The top most section of page is the header that consists of the nike logo with its name. The ["Nike" Name in the first line is a link and will take u to the The Official Nike Page Upon Clicking]. Same With The Bell Icon As Well As The USer Image [By clicking on the search button It Shows an Alert On The Window).<br><br>
 2) After the header Section.. Navigation Section is there.. [The Nav section has options.. By clicking on them u will reach the desired section of the page].. The page is Responsive. So [If The Page width reduces to 1200px or more, The (Nav Items) will be gone and an "image of three horizontal bars will be displayed]" By hovering i.e placing the mouse on the image [all the Nav Items will be displayed in a dropdown].<br><br>
 3) The Heading And The Nav Section Remains Fixed So That it Becomes Easy For Others To Directly Navigate To The Desired Section By Just Clicking .<br><br>
 4) To Scroll Down [Please plase your mouse below the nav section] because nav and header sections are fixed.
